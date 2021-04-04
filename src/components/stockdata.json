@@ -1,0 +1,89 @@
+﻿{
+    "koreaStocks": [
+        {
+            "country": "korea",
+            "market": "kospi",
+            "name": "우리금융지주",
+            "code": "316140"
+        },
+        {
+            "country": "korea",
+            "market": "kosdaq",
+            "name": "우리기술",
+            "code": "032820"
+        },
+        {
+            "country": "korea",
+            "market": "kosdaq",
+            "name": "우리기술투자",
+            "code": "041190"
+        },
+        {
+            "country": "korea",
+            "market": "kosdaq",
+            "name": "우리넷",
+            "code": "115440"
+        },
+        {
+            "country": "korea",
+            "market": "kospi",
+            "name": "우리들제약",
+            "code": "004720"
+        },
+        {
+            "country": "korea",
+            "market": "kospi",
+            "name": "우리들휴브레인",
+            "code": "118000"
+        },
+        {
+            "country": "korea",
+            "market": "kosdaq",
+            "name": "우리로",
+            "code": "046970"
+        },
+        {
+            "country": "korea",
+            "market": "kosdaq",
+            "name": "우리바이오",
+            "code": "082850"
+        },
+        {
+            "country": "korea",
+            "market": "kosdaq",
+            "name": "우리산업",
+            "code": "215360"
+        },
+        {
+            "country": "korea",
+            "market": "kosdaq",
+            "name": "우리산업홀딩스",
+            "code": "072470"
+        },
+        {
+            "country": "korea",
+            "market": "kosdaq",
+            "name": "우리손에프앤지",
+            "code": "073560"
+        },
+        {
+            "country": "korea",
+            "market": "kosdaq",
+            "name": "우리이앤엘",
+            "code": "153490"
+        },
+        {
+            "country": "korea",
+            "market": "kosdaq",
+            "name": "우리조명",
+            "code": "037400"
+        },
+        {
+            "country": "korea",
+            "market": "kospi",
+            "name": "우리종금",
+            "code": "010050"
+        }
+    ],
+    "usaStocks": []
+}

@@ -1,0 +1,349 @@
+﻿{
+    "totalAsset": 891759.685,
+    "profitBalance": -737647.07, 
+    "profitRate": 479, 
+    "realizedProfitBalance": 150000,
+    "boughtBalance": 1162352.93,
+    "assetCategory": {
+        "stockCategory": {
+            "한국 주식": [
+                {
+                    "country": "korea",
+                    "market": "kospi",
+                    "name": "삼성SDI",
+                    "code": "006412"
+                },{
+                    "country": "korea",
+                    "market": "kospi",
+                    "name": "삼성SDI",
+                    "code": "006412"
+                }
+
+            ],
+            "미국 주식": [
+                {
+                    "country": "korea",
+                    "market": "kospi",
+                    "name": "삼성SDI",
+                    "code": "006412"
+                },{
+                    "country": "korea",
+                    "market": "kospi",
+                    "name": "삼성SDI",
+                    "code": "006412"
+                }
+
+            ]
+        },
+        "cashCategory": {
+            "cash": [
+                "usa",
+                "korea"
+            ]
+        }
+    },
+    "assetRatio": {
+        "stockRatios": {
+            "usaStock": [
+                {
+                    "stock": {
+                        "country": "usa",
+                        "market": "nyse",
+                        "name": "BOEING CO/THE",
+                        "code": "BA"
+                    },
+                    "goalRatio": 15,
+                    "nowRatio": 0
+                },
+                {
+                    "stock": {
+                        "country": "usa",
+                        "market": "nasdaq",
+                        "name": "APPLE INC",
+                        "code": "AAPL"
+                    },
+                    "goalRatio": 20,
+                    "nowRatio": 0
+                }
+            ],
+            "koreaStock": [
+                {
+                    "stock": {
+                        "country": "korea",
+                        "market": "kospi",
+                        "name": "카카오",
+                        "code": "035720"
+                    },
+                    "goalRatio": 20,
+                    "nowRatio": 0
+                },
+                {
+                    "stock": {
+                        "country": "korea",
+                        "market": "kospi",
+                        "name": "삼성전자",
+                        "code": "005930"
+                    },
+                    "goalRatio": 15,
+                    "nowRatio": 0
+                }
+            ],
+            "bond": [
+                {
+                    "stock": {
+                        "country": "usa",
+                        "market": "etf",
+                        "name": "ISHARES 20+ YEAR TREASURY BO",
+                        "code": "TLT"
+                    },
+                    "goalRatio": 10,
+                    "nowRatio": 0
+                }
+            ]
+        },
+        "cashRatios": {
+            "cash": [
+                {
+                    "country": "korea",
+                    "goalRatio": 15,
+                    "nowRatio": -214
+                },
+                {
+                    "country": "usa",
+                    "goalRatio": 5,
+                    "nowRatio": -100
+                }
+            ]
+        }
+    },
+    "cashStatus": {
+        "korea": {
+            "country": "korea",
+            "balance": -1020000,
+            "cashFlowHistories": [
+                {
+                    "id": "b24eb0d2-530e-4dd8-ab17-1ff5e71a6f91",
+                    "flowType": "BoughtAmount",
+                    "country": "korea",
+                    "balance": 100000,
+                    "timestamp": 2604070000
+                },
+                {
+                    "id": "9983c6f8-c3a0-4dd6-b263-4c62c07ac85d",
+                    "flowType": "Deposit",
+                    "country": "korea",
+                    "balance": 10000,
+                    "timestamp": 1604588400
+                },
+                {
+                    "id": "c97aab0b-9e29-4e6f-8ff2-658a68137cef",
+                    "flowType": "BoughtAmount",
+                    "country": "korea",
+                    "balance": 660000,
+                    "timestamp": 1604090000
+                },
+                {
+                    "id": "eb33c906-1530-4b3a-a623-b9d0d84721c7",
+                    "flowType": "SoldAmount",
+                    "country": "korea",
+                    "balance": 250000,
+                    "timestamp": 1604070001
+                },
+                {
+                    "id": "ae3f68d4-f396-4e06-a9fe-bdb9e2df840f",
+                    "flowType": "SoldAmount",
+                    "country": "korea",
+                    "balance": 400000,
+                    "timestamp": 1604070000
+                },
+                {
+                    "id": "c40df60f-164a-4367-9af6-7bf809132abd",
+                    "flowType": "SoldAmount",
+                    "country": "korea",
+                    "balance": 400000,
+                    "timestamp": 1604070000
+                },
+                {
+                    "id": "02c3583d-a1c0-429d-8cf6-ece0c78211e8",
+                    "flowType": "BoughtAmount",
+                    "country": "korea",
+                    "balance": 660000,
+                    "timestamp": 1604070000
+                },
+                {
+                    "id": "9142424e-e1a9-46ee-a3ec-641f81887b0a",
+                    "flowType": "BoughtAmount",
+                    "country": "korea",
+                    "balance": 660000,
+                    "timestamp": 1604060000
+                }
+            ]
+        },
+        "usa": {
+            "country": "usa",
+            "balance": 10.5,
+            "cashFlowHistories": [
+                {
+                    "id": "d0312f18-8023-4b82-8860-7a8e97f4e261",
+                    "flowType": "Deposit",
+                    "country": "usa",
+                    "balance": 10.5,
+                    "timestamp": 1604588400
+                }
+            ]
+        }
+    },
+    "stockStatus": {
+        "006412": {
+            "stock": {
+                "country": "korea",
+                "market": "kospi",
+                "name": "삼성SDI",
+                "code": "006412"
+            },
+            "amount": 19,
+            "avgPrice": 61176.47,
+            "nowPrice": 100000,
+            "profitBalance": 737647.07,
+            "profitRate": 63,
+            "realizedProfitBalance": 150000,
+            "boughtBalance": 1162352.93,
+            "evaluatedBalance": 1900000,
+            "tradeHistories": [
+                {
+                    "tradeType": "Buy",
+                    "data": {
+                        "id": "0cdde094-26d5-438a-80e9-eb74789d5f3a",
+                        "tradeType": "Buy",
+                        "stock": {
+                            "country": "korea",
+                            "market": "kospi",
+                            "name": "삼성SDI",
+                            "code": "006412"
+                        },
+                        "amount": 1,
+                        "price": 100000,
+                        "timestamp": 2604070000,
+                        "profitBalance": 0,
+                        "profitRate": 0,
+                        "cashHistoryId": "b24eb0d2-530e-4dd8-ab17-1ff5e71a6f91"
+                    }
+                },
+                {
+                    "tradeType": "Buy",
+                    "data": {
+                        "id": "a79349f9-6676-41da-aec1-80a206321433",
+                        "tradeType": "Buy",
+                        "stock": {
+                            "country": "korea",
+                            "market": "kospi",
+                            "name": "삼성SDI",
+                            "code": "006412"
+                        },
+                        "amount": 11,
+                        "price": 60000,
+                        "timestamp": 1604090000,
+                        "profitBalance": 440000,
+                        "profitRate": 67,
+                        "cashHistoryId": "c97aab0b-9e29-4e6f-8ff2-658a68137cef"
+                    }
+                },
+                {
+                    "tradeType": "Sell",
+                    "data": {
+                        "id": "f683965f-cd11-49ca-9dcd-14699aeae2f1",
+                        "tradeType": "Sell",
+                        "stock": {
+                            "country": "korea",
+                            "market": "kospi",
+                            "name": "삼성SDI",
+                            "code": "006412"
+                        },
+                        "amount": 5,
+                        "price": 50000,
+                        "timestamp": 1604070001,
+                        "cashHistoryId": "eb33c906-1530-4b3a-a623-b9d0d84721c7",
+                        "realizedProfitBalance": -50000,
+                        "realizedProfitRate": -16.67
+                    }
+                },
+                {
+                    "tradeType": "Sell",
+                    "data": {
+                        "id": "fb84f951-5161-48d9-9aae-42e20dad828f",
+                        "tradeType": "Sell",
+                        "stock": {
+                            "country": "korea",
+                            "market": "kospi",
+                            "name": "삼성SDI",
+                            "code": "006412"
+                        },
+                        "amount": 5,
+                        "price": 80000,
+                        "timestamp": 1604070000,
+                        "cashHistoryId": "ae3f68d4-f396-4e06-a9fe-bdb9e2df840f",
+                        "realizedProfitBalance": 100000,
+                        "realizedProfitRate": 33.33
+                    }
+                },
+                {
+                    "tradeType": "Sell",
+                    "data": {
+                        "id": "2c093db1-174d-46f1-84ee-84926fdba549",
+                        "tradeType": "Sell",
+                        "stock": {
+                            "country": "korea",
+                            "market": "kospi",
+                            "name": "삼성SDI",
+                            "code": "006412"
+                        },
+                        "amount": 5,
+                        "price": 80000,
+                        "timestamp": 1604070000,
+                        "cashHistoryId": "c40df60f-164a-4367-9af6-7bf809132abd",
+                        "realizedProfitBalance": 100000,
+                        "realizedProfitRate": 33.33
+                    }
+                },
+                {
+                    "tradeType": "Buy",
+                    "data": {
+                        "id": "c46f96af-a656-4ae5-83c0-c1ed64a8ad9e",
+                        "tradeType": "Buy",
+                        "stock": {
+                            "country": "korea",
+                            "market": "kospi",
+                            "name": "삼성SDI",
+                            "code": "006412"
+                        },
+                        "amount": 11,
+                        "price": 60000,
+                        "timestamp": 1604070000,
+                        "profitBalance": 440000,
+                        "profitRate": 67,
+                        "cashHistoryId": "02c3583d-a1c0-429d-8cf6-ece0c78211e8"
+                    }
+                },
+                {
+                    "tradeType": "Buy",
+                    "data": {
+                        "id": "b358ed0d-90dd-47af-af2a-cf08eeccc4f1",
+                        "tradeType": "Buy",
+                        "stock": {
+                            "country": "korea",
+                            "market": "kospi",
+                            "name": "삼성SDI",
+                            "code": "006412"
+                        },
+                        "amount": 11,
+                        "price": 60000,
+                        "timestamp": 1604060000,
+                        "profitBalance": 440000,
+                        "profitRate": 67,
+                        "cashHistoryId": "9142424e-e1a9-46ee-a3ec-641f81887b0a"
+                    }
+                }
+            ]
+        }
+    }
+}
